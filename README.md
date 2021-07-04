@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Olivier. 
+- 👀 I’m interested in Data Science, Web Developement and IoT.
+- 🌱 I am passionated by football (soccer).
+- 📫 How to reach me ...
