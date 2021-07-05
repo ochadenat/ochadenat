@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Olivier. 
-- 👀 I’m interested in Data Science, Web Developement and IoT.
-- 🌱 I am passionated by football (soccer).
-- 📫 How to reach me ...
+- 👋 Hi, I’m Olivier. Originally from France, I have been working in the Finance Industry in New york since 2004. After graduating with a computer science engineering degree, I spent a decade learning about finance, holding several roles, getting a MBA and earning the CFA & FRM certification. While keep working in the Finance Industry, I spend more time working on IT topics in the past 3 years, brushing up on my development skills.
+- 🌱 I’m interested in Data Science, Web Developement and IoT. I am also passionated by football (soccer). As I an avid collector of football jerseys, I created footshirt.com in 2018. FootShirt.com is the site for football fans that enjoy collecting jerseys and/or are passionate by the history and values communicated by football shirts.
+- 📫 How to reach me: info@footshirt.com
